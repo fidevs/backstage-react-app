@@ -4,6 +4,7 @@ metadata:
   name: backstage-react-app
   annotations:
     github.com/project-slug: fidevs/backstage-react-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
